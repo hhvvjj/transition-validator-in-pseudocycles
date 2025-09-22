@@ -1,4 +1,4 @@
-# Transition validator in pseudocycles
+# Transition Validator in Pseudocycles
 
 [![Research](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.15546925-orange.svg)](https://doi.org/10.5281/zenodo.15546925)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
@@ -204,7 +204,7 @@ This project is licensed under the Creative Commons Attribution-NonCommercial-Sh
 - NonCommercial — You may not use the material for commercial purposes
 - ShareAlike — If you remix, transform or build upon the material, you must distribute your contributions under the same license
 
-See [LICENSE](https://github.com/hhvvjj/transition_validator_in_pseudocycles/blob/main/LICENSE) for full details.
+See [LICENSE](https://github.com/hhvvjj/transition-validator-in-pseudocycles/blob/main/LICENSE) for full details.
 
 ## Contact
 
